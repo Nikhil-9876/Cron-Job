@@ -285,7 +285,6 @@ btn-delete:disabled {
   transform: none;
 }
 
-.
 .btn-delete:hover {
   background: #ffebee;
   transform: scale(1.1);
