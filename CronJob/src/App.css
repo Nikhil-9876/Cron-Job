@@ -275,7 +275,8 @@ label {
   border-radius: 4px;
   transition: all 0.2s ease;
 }
-btn-delete:disabled {
+
+.btn-delete:disabled {
   opacity: 0.5;
   cursor: not-allowed;
 }
